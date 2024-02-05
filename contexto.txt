@@ -1,3 +1,5 @@
 Ejemplo para explicar como funciona el contexto en go.
 Mosificando contexto.
 Actualizado desde nas
+Haciendo modificaciones
+eof
