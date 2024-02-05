@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"untref.edu/leoblau.recursivas/division"
 	"untref.edu/leoblau.recursivas/palindromo"
 )
 
@@ -12,6 +13,8 @@ func main() {
 	fmt.Println(palindromo.EsPalindromo("o"))
 	fmt.Println(palindromo.EsPalindromo("Ala"))
 	fmt.Println(palindromo.EsPalindromo("Neuquen"))
+	fmt.Println(division.Cociente(25, 4))
+	fmt.Println(division.Resto(25, 4))
 }
 
 /**
