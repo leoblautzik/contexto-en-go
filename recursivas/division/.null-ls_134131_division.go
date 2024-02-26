@@ -16,6 +16,6 @@ func Resto(a, b int) int {
 	return resto + Resto(a-b, b)
 }
 
-func Division(a, b int) (int, int) {
-	return Cociente(a, b), Resto(a, b)
+func Division(a,b int)(int,int){
+    return Cociente(a, b ),Resto(a , b)
 }
