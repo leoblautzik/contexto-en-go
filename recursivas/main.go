@@ -15,6 +15,7 @@ func main() {
 	fmt.Println(palindromo.EsPalindromo("Neuquen"))
 	fmt.Println(division.Cociente(25, 4))
 	fmt.Println(division.Resto(25, 4))
+	fmt.Println(division.Division(25, 4))
 }
 
 /**
